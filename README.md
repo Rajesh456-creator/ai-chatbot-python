@@ -1,4 +1,3 @@
-# AI-Chatbot-Python-
 # AI Chatbot 🤖
 
 This is a simple Python-based AI chatbot that can respond to basic user inputs.
